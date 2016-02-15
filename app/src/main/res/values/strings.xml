@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AndroidLab3</string>
+    <string name="btn_alert_name">Show Alert Dialog</string>
+    <string name="btn_notification_name">Show Notifivation</string>
+</resources>
